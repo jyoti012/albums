@@ -6,3 +6,5 @@ Execution failed for task ':app:generateDebugBuildConfig'.
 Just delete the contents inside albums\android\app\build folder
 
 * https://rallycoding.com/blog/troubleshooting-react-native-startup/
+
+* API for albums data : http://rallycoding.herokuapp.com/api/music_albums
